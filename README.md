@@ -10,3 +10,6 @@
   * Building a detail screen
   * Loading images with UIImage
   * Final tweaks: hidesBarsOnTap, safe area margins
+* `Day 18 - Project 1, part three`
+  * Wrap up
+  * Review for Project 1: Storm Viewer
