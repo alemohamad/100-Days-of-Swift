@@ -13,3 +13,7 @@
 * `Day 18 - Project 1, part three`
   * Wrap up
   * Review for Project 1: Storm Viewer
+* `Day 19 - Project 2, part one`
+  * Setting up
+  * Designing your layout
+  * Making the basic game work: UIButton and CALayer
