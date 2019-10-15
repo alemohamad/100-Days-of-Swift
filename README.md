@@ -28,3 +28,7 @@
   * UIActivityViewController explained
   * Wrap up
   * Review for Project 3: Social media
+* `Day 23 - Milestone: Projects 1-3`
+  * What you learned
+  * Key points
+  * Challenge
