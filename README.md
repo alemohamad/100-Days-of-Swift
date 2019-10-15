@@ -20,3 +20,6 @@
 * `Day 20 - Project 2, part two`
   * Guess which flag: random numbers
   * From outlets to actions: creating an IBAction
+* `Day 21 - Project 2, part three`
+  * Wrap up
+  * Review for Project 2: Guess the Flag
