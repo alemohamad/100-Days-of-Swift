@@ -44,6 +44,8 @@ class ViewController: UIViewController {
         countries.append("us")
         
         askQuestion()
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Score", style: .plain, target: self, action: #selector(showScoreTapped))
     }
     
     func askQuestion(action: UIAlertAction! = nil) {
@@ -85,6 +87,12 @@ class ViewController: UIViewController {
             ac.addAction(UIAlertAction(title: "Continue", style: .default, handler: askQuestion))
             present(ac, animated: true)
         }
+    }
+    
+    @objc func showScoreTapped() {
+        let ac = UIAlertController(title: "Guess the flag!", message: "Your score is \(score)", preferredStyle: .alert)
+        ac.addAction(UIAlertAction(title: "OK", style: .default))
+        present(ac, animated: true)
     }
     
 }
