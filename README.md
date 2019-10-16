@@ -32,3 +32,7 @@
   * What you learned
   * Key points
   * Challenge
+* `Day 24 - Project 4, part one`
+  * Setting up
+  * Creating a simple browser with WKWebView
+  * Choosing a website: UIAlertController action sheets
