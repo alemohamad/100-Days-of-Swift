@@ -51,3 +51,6 @@
   * Prepare for submission: lowercased() and IndexPath
   * Checking for valid answers
   * Or else what?
+* `Day 29 - Project 5, part three`
+  * Wrap up
+  * Review for Project 5: Word Scramble
