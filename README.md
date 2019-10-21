@@ -47,3 +47,7 @@
   * Setting up
   * Reading from disk: contentsOfFile
   * Pick a word, any word: UIAlertController
+* `Day 28 - Project 5, part two`
+  * Prepare for submission: lowercased() and IndexPath
+  * Checking for valid answers
+  * Or else what?
