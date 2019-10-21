@@ -39,3 +39,6 @@
 * `Day 25 - Project 4, part two`
   * Monitoring page loads: UIToolbar and UIProgressView
   * Refactoring for the win
+* `Day 26 - Project 4, part three`
+  * Wrap up
+  * Review for Project 4: Easy Browser

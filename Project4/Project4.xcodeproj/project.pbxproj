@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9931C5AB235E1F0A003E444A /* WebsitesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9931C5AA235E1F0A003E444A /* WebsitesTableViewController.swift */; };
 		998F3191235708CE00E214EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998F3190235708CE00E214EC /* AppDelegate.swift */; };
 		998F3193235708CE00E214EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998F3192235708CE00E214EC /* SceneDelegate.swift */; };
 		998F3195235708CE00E214EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998F3194235708CE00E214EC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9931C5AA235E1F0A003E444A /* WebsitesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsitesTableViewController.swift; sourceTree = "<group>"; };
 		998F318D235708CE00E214EC /* Project4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		998F3190235708CE00E214EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		998F3192235708CE00E214EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				998F3190235708CE00E214EC /* AppDelegate.swift */,
 				998F3192235708CE00E214EC /* SceneDelegate.swift */,
 				998F3194235708CE00E214EC /* ViewController.swift */,
+				9931C5AA235E1F0A003E444A /* WebsitesTableViewController.swift */,
 				998F3196235708CE00E214EC /* Main.storyboard */,
 				998F3199235708D000E214EC /* Assets.xcassets */,
 				998F319B235708D000E214EC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				998F3195235708CE00E214EC /* ViewController.swift in Sources */,
 				998F3191235708CE00E214EC /* AppDelegate.swift in Sources */,
 				998F3193235708CE00E214EC /* SceneDelegate.swift in Sources */,
+				9931C5AB235E1F0A003E444A /* WebsitesTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
