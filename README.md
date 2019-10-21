@@ -42,3 +42,8 @@
 * `Day 26 - Project 4, part three`
   * Wrap up
   * Review for Project 4: Easy Browser
+* `Day 27 - Project 5, part one`
+  * Capture lists in Swift: what’s the difference between weak, strong, and unowned references?
+  * Setting up
+  * Reading from disk: contentsOfFile
+  * Pick a word, any word: UIAlertController
