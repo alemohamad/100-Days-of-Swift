@@ -36,3 +36,6 @@
   * Setting up
   * Creating a simple browser with WKWebView
   * Choosing a website: UIAlertController action sheets
+* `Day 25 - Project 4, part two`
+  * Monitoring page loads: UIToolbar and UIProgressView
+  * Refactoring for the win
