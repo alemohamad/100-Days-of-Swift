@@ -54,3 +54,7 @@
 * `Day 29 - Project 5, part three`
   * Wrap up
   * Review for Project 5: Word Scramble
+* `Day 30 - Project 6, part one`
+  * Setting up
+  * Advanced Auto Layout
+  * Auto Layout in code: addConstraints() with Visual Format Language
