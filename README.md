@@ -63,3 +63,7 @@
   * Auto Layout anchors
   * Wrap up
   * Review for Project 6: Auto Layout
+* `Day 32 - Milestone: Projects 4-6`
+  * What you learned
+  * Key points
+  * Challenge
