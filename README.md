@@ -58,3 +58,8 @@
   * Setting up
   * Advanced Auto Layout
   * Auto Layout in code: addConstraints() with Visual Format Language
+* `Day 31 - Project 6, part two`
+  * Auto Layout metrics and priorities: constraints(withVisualFormat:)
+  * Auto Layout anchors
+  * Wrap up
+  * Review for Project 6: Auto Layout
